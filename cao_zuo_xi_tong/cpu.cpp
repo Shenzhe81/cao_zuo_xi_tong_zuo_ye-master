@@ -75,11 +75,12 @@ void cpu::DisposeIR()//cpu¥¶¿Ì÷∏¡Ó
 	}
 	else if (str.compare("end;") == 1)
 	{
-		
+		//todo 
 	}
 	else if (str.compare("!=A9;") == 1)
 	{
 		
+
 	}
 
 
